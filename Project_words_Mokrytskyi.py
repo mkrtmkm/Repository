@@ -3,7 +3,7 @@ def input_text(filename):
         with open(filename, "r", encoding="utf-8") as file:
             return file.read()
     except FileNotFoundError:
-        print("Файл не знайдено.")
+        print("Файл не знайдено")
         return ""
 
 def parse_text(text):

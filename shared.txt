@@ -1,3 +1,4 @@
 Changes from feature1!
 Changes from feature2!
+Final changes from feature3
 
